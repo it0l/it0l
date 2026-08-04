@@ -198,29 +198,12 @@ Expandindo meus conhecimentos em orientação a objetos, tipagem estática e des
 
 ---
 
-## Atividade
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=it0l&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Lucas Ito" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=it0l&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividades de Lucas Ito" />
-
-</div>
-
----
-
 ## Contato
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-it0l-111111?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/it0l)
-[![Discord](https://img.shields.io/badge/Discord-Contato-111111?style=for-the-badge\&logo=discord\&logoColor=5865F2)](SEU-LINK-DO-DISCORD)
-[![Email](https://img.shields.io/badge/Email-Contato-111111?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:SEU-EMAIL)
+[![Email](https://img.shields.io/badge/Email-lucaksponsor%40gmail.com-111111?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:lucaksponsor@gmail.com)
 
 </div>
 
