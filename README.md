@@ -186,17 +186,6 @@ Expandindo meus conhecimentos em orientação a objetos, tipagem estática e des
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=it0l&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Lucas Ito" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it0l&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8" alt="Linguagens mais utilizadas por Lucas Ito" />
-
-</div>
-
----
 
 ## Contato
 
