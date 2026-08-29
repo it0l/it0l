@@ -35,6 +35,5 @@ Desenvolvo aplicações backend e integrações com foco em autenticação, pers
 
 <div align="center">
 
-Aberto a oportunidades de estágio e desenvolvimento de software.
 
 </div>
