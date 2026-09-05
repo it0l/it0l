@@ -1,21 +1,27 @@
 <div align="center">
 
-# Building for Discord
+# Backend • APIs • Integrations
 
-### Discord Apps • Backend Systems • Integrations
+I build backend systems, APIs and integrations focused on automation, authentication, secure data flows and practical tools for real users.
 
-I build tools and backend systems for Discord communities, with a focus on useful public apps, automation, secure integrations and workflows that connect Discord with external services.
+I'm also expanding my public work around the **Discord ecosystem**, building apps, bots and integrations designed for communities and developers.
 
 </div>
 
-## Current focus
+## What I build
 
-- Public Discord apps and community tooling
-- Bots and automation for support, moderation and operations
-- Discord OAuth2, permissions and role-based access
-- APIs, webhooks and dashboards connected to Discord
-- Secure server-side flows, auditability and access control
-- Open-source tools designed to be useful beyond a single server
+- Backend APIs and integrations between external services
+- Authentication, authorization and role-based access control
+- Webhooks, automation and event-driven workflows
+- Dashboards and tools connected to real operational flows
+- Public Discord apps, bots and community tooling
+- Secure server-side systems with auditability and access control
+
+## Discord
+
+A growing part of my work is focused on Discord: public apps, community automation, OAuth2, permissions, interactions, webhooks and integrations that connect Discord with external platforms.
+
+The goal is to build tools that are useful beyond a single server and can evolve into documented, reusable public projects.
 
 ## Selected projects
 
@@ -25,12 +31,6 @@ I build tools and backend systems for Discord communities, with a focus on usefu
 | [Midnight Planner](https://github.com/it0l/midnight-planner) | Custom authentication, `HttpOnly` sessions, protected user data and a complete full-stack workflow. |
 | [Sistema Acadêmico API](https://github.com/it0l/sistema-academico-api) | REST API design, business rules, DTOs, asynchronous EF Core and OpenAPI documentation. |
 
-## Building next
+## Contact
 
-I'm moving more of my public work toward the Discord ecosystem: installable apps, community-focused tools, integrations and backend infrastructure that can be used by real servers and developers.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Contact-Email-1f2328?style=flat-square&logo=gmail&logoColor=white)](mailto:lucaksponsor@gmail.com)
-
-</div>
+**Email:** [lucaksponsor@gmail.com](mailto:lucaksponsor@gmail.com)
