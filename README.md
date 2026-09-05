@@ -1,39 +1,36 @@
 <div align="center">
 
-# Lucas Ito
+# Building for Discord
 
-### Backend Developer • APIs • Integrações
+### Discord Apps • Backend Systems • Integrations
 
-Desenvolvo aplicações backend e integrações com foco em autenticação, persistência de dados, controle de acesso e segurança.
-
-[![Email](https://img.shields.io/badge/Email-lucaksponsor%40gmail.com-1f2328?style=flat-square&logo=gmail&logoColor=white)](mailto:lucaksponsor@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-it0l-1f2328?style=flat-square&logo=github&logoColor=white)](https://github.com/it0l)
+I build tools and backend systems for Discord communities, with a focus on useful public apps, automation, secure integrations and workflows that connect Discord with external services.
 
 </div>
 
-## Stack
+## Current focus
 
-<div align="center">
+- Public Discord apps and community tooling
+- Bots and automation for support, moderation and operations
+- Discord OAuth2, permissions and role-based access
+- APIs, webhooks and dashboards connected to Discord
+- Secure server-side flows, auditability and access control
+- Open-source tools designed to be useful beyond a single server
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![Prisma](https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=prisma&logoColor=white)
+## Selected projects
 
-</div>
-
-## Projetos
-
-| Projeto | Destaques |
+| Project | What it demonstrates |
 | --- | --- |
-| [SS Tools Platform](https://github.com/it0l/ss-tools-platform) | Discord OAuth, SSR sessions, RBAC, rotas protegidas e PostgreSQL RLS. |
-| [Midnight Planner](https://github.com/it0l/midnight-planner) | Autenticação própria, sessões `HttpOnly`, dashboard privado e CRUD de notas por usuário. |
-| [Sistema Acadêmico API](https://github.com/it0l/sistema-academico-api) | API REST em C#/.NET com DTOs, EF Core assíncrono, regras de negócio e OpenAPI. |
+| [SS Tools Platform](https://github.com/it0l/ss-tools-platform) | Discord OAuth, server-side sessions, RBAC, protected routes and PostgreSQL Row Level Security. |
+| [Midnight Planner](https://github.com/it0l/midnight-planner) | Custom authentication, `HttpOnly` sessions, protected user data and a complete full-stack workflow. |
+| [Sistema Acadêmico API](https://github.com/it0l/sistema-academico-api) | REST API design, business rules, DTOs, asynchronous EF Core and OpenAPI documentation. |
+
+## Building next
+
+I'm moving more of my public work toward the Discord ecosystem: installable apps, community-focused tools, integrations and backend infrastructure that can be used by real servers and developers.
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Contact-Email-1f2328?style=flat-square&logo=gmail&logoColor=white)](mailto:lucaksponsor@gmail.com)
 
 </div>
